@@ -5,3 +5,7 @@
 - run `bundle update`
 - run `jekyll serve`
 - go to http://localhost:4000
+
+
+# LaTeX support
+https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/
