@@ -1,0 +1,83 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2539,         75]
+NotebookOptionsPosition[      1969,         59]
+NotebookOutlinePosition[      2312,         74]
+CellTagsIndexPosition[      2269,         71]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"exportPlotForWebsite", "[", 
+   RowBox[{"plot_", ",", "name_String"}], "]"}], ":=", 
+  RowBox[{"Export", "[", 
+   RowBox[{
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"NotebookDirectory", "[", "]"}], ",", "\"\<..\>\"", ",", 
+       "\"\<images\>\"", ",", 
+       RowBox[{"name", "<>", "\"\<.svg\>\""}]}], "}"}], "]"}], ",", "plot"}], 
+   "]"}]}]], "Input",
+ CellLabel->"In[]:=",ExpressionUUID->""],
+
+Cell["\<\
+ImageMargins are used to prevent the plot to end right at the edge of the \
+axes labels and so on.\
+\>", "Text",ExpressionUUID->""],
+
+Cell[BoxData[
+ RowBox[{"plt", "=", 
+  RowBox[{"Plot", "[", 
+   RowBox[{
+    RowBox[{"Sin", "[", "x", "]"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"x", ",", "0", ",", 
+      RowBox[{"2", "\[Pi]"}]}], "}"}], ",", 
+    RowBox[{"AxesLabel", "\[Rule]", "Automatic"}], ",", 
+    RowBox[{"GridLines", "\[Rule]", "Automatic"}], ",", 
+    RowBox[{"Background", "\[Rule]", "White"}], ",", 
+    RowBox[{"ImageMargins", "\[Rule]", "5"}]}], "]"}]}]], "Input",
+ CellLabel->"In[]:=",ExpressionUUID->""],
+
+Cell[BoxData[
+ RowBox[{"exportPlotForWebsite", "[", 
+  RowBox[{"plt", ",", "\"\<test\>\""}], "]"}]], "Input",
+ CellLabel->"In[]:=",ExpressionUUID->""]
+},
+WindowSize->{1536, 781},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 509, 13, 35, "Input",ExpressionUUID->""],
+Cell[1070, 35, 177, 3, 43, "Text",ExpressionUUID->""],
+Cell[1250, 40, 524, 12, 35, "Input",ExpressionUUID->""],
+Cell[1777, 54, 188, 3, 35, "Input",ExpressionUUID->""]
+}
+]
+*)
+
