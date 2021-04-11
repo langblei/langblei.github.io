@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: default
 ---
 
 This site is intended to contain a series of yet-to-write posts on a private research project on the external ballistics of the Prussian *Langblei* projectile. 
