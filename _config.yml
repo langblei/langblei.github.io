@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aaron Dörr"
+  name   : "Aaron D."
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Simulation engineer interested in (military) history and computation, among others"
   links:
