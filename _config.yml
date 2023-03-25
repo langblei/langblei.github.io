@@ -108,3 +108,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+google_analytics: "G-ZX326Y4D2M"
