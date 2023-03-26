@@ -19,6 +19,9 @@ Having neither seen an original sabot nor a high-resolution picture of one, I ca
 |:-------:|
 | Schematic of a sabot's orientation with respect to the rifling |
 
+<img src="./../../assets/images/warning.png" alt="drawing" style="width:200px;"/>
+<div  style="font-size:10px">Icons made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 
 
 
