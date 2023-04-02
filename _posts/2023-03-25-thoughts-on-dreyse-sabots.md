@@ -13,11 +13,7 @@ How can we produce authentic sabots ("Zündspiegel", "Spiegel") for the Langblei
 3. At some point, the strips were glued or pasted together.
 4. The sabots received two cross-wise cuts at their front side.
 
-Having neither seen an original sabot nor a high-resolution picture of one, I cannot say for sure if and how the rolling was oriented with respect to the shooting direction. However, I suggest that the sabots were rolled clockwise when viewed from the rear. In this way, the rifling (turning clockwise on a Dreyse rifle) would tend to tighten the roll against the much heavier bullet's inertia. Rolled up in the opposite way, the sabots would loosen up due to shear stress and would neither guide the bullet properly nor communicate the spin from the rifling to the bullet.
-
-| ![Rolling_direction](./../../assets/images/Wicklungsrichtung.png) |
-|:-------:|
-| Schematic of a sabot's orientation with respect to the rifling |
+Future posts will elaborate on selected aspects of the above list, moving as far towards authentic reproduction of Dreyse sabots as possible.
 
 <img src="./../../assets/images/warning.png" alt="drawing" style="width:200px;"/>
 <div  style="font-size:10px">Icons made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
