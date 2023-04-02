@@ -15,14 +15,6 @@ How can we produce authentic sabots ("Zündspiegel", "Spiegel") for the Langblei
 
 Future posts will elaborate on selected aspects of the above list, moving as far towards authentic reproduction of Dreyse sabots as possible.
 
-<img src="./../../assets/images/warning.png" alt="drawing" style="width:200px;"/>
-<div  style="font-size:10px">Icons made by <a href="https://www.flaticon.com/authors/wanicon" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-
-
-
-
-
 <div class="commentbox"></div>
 <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 <script>commentBox('5736726756589568-proj',{textColor: '#fff'})</script>
